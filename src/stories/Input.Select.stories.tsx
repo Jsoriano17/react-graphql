@@ -1,4 +1,4 @@
-import ENV from '../../.env';
+import ENV from '../../.env.js';
 import React, { useState } from 'react';
 import { ComponentStory, ComponentMeta } from '@storybook/react';
 
